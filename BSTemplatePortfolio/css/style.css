@@ -1,0 +1,15 @@
+﻿body {
+}
+
+.blacknav {
+    background: black;
+}
+
+li.pagescroll.active {
+    background: rgba(81, 134, 255, 1);
+    color: rgba(81, 134, 255, 1);
+}
+
+header {
+    background: #5186FF;
+}
