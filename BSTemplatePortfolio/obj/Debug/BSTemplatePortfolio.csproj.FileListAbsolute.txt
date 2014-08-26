@@ -4,3 +4,9 @@ c:\users\danbäc\documents\visual studio 2013\Projects\BSTemplatePortfolio\BSTem
 c:\users\danbäc\documents\visual studio 2013\Projects\BSTemplatePortfolio\BSTemplatePortfolio\obj\Debug\BSTemplatePortfolio.csprojResolveAssemblyReference.cache
 c:\users\danbäc\documents\visual studio 2013\Projects\BSTemplatePortfolio\BSTemplatePortfolio\obj\Debug\BSTemplatePortfolio.dll
 c:\users\danbäc\documents\visual studio 2013\Projects\BSTemplatePortfolio\BSTemplatePortfolio\obj\Debug\BSTemplatePortfolio.pdb
+C:\Projects\BSTemplatePortfolio\BSTemplatePortfolio\bin\BSTemplatePortfolio.dll.config
+C:\Projects\BSTemplatePortfolio\BSTemplatePortfolio\bin\BSTemplatePortfolio.dll
+C:\Projects\BSTemplatePortfolio\BSTemplatePortfolio\bin\BSTemplatePortfolio.pdb
+C:\Projects\BSTemplatePortfolio\BSTemplatePortfolio\obj\Debug\BSTemplatePortfolio.csprojResolveAssemblyReference.cache
+C:\Projects\BSTemplatePortfolio\BSTemplatePortfolio\obj\Debug\BSTemplatePortfolio.dll
+C:\Projects\BSTemplatePortfolio\BSTemplatePortfolio\obj\Debug\BSTemplatePortfolio.pdb

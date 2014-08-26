@@ -1,8 +1,5 @@
-﻿body {
-}
-
-.blacknav {
-    background: black;
+﻿.blacknav {
+    background: rgba(0,0,0, 0.7);
 }
 
 li.pagescroll.active {
@@ -10,6 +7,10 @@ li.pagescroll.active {
     color: rgba(81, 134, 255, 1);
 }
 
-header {
+header, hr.star-light::after, section.success, .btn-colorized {
     background: #5186FF;
+}
+
+.btn-colorized {
+    border-color: #5186FF;
 }
